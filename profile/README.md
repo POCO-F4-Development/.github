@@ -12,5 +12,6 @@
 * [Xiaomi Parts / devicesettings strings](https://github.com/POCO-F4-Development/packages_resources_devicesettings)
 * [Hardware Xiaomi](https://github.com/POCO-F4-Development/hardware_xiaomi)
 
-## Additional repositories (MICam, Firmware, devicesettings) cloned from HDzungx, johnmart.
-## Device trees cloned from LineageOS.
+Additional repositories (MICam, Firmware, devicesettings) cloned from HDzungx, johnmart.
+
+Device trees cloned from LineageOS.
