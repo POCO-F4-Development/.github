@@ -14,4 +14,4 @@
 
 Additional repositories (MICam, Firmware, devicesettings) cloned from HDzungx, johnmart.
 
-Device trees cloned from LineageOS.
+Device and Kernel trees cloned from LineageOS, EmanuelCN.
